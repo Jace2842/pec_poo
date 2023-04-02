@@ -1,7 +1,8 @@
 package edu.ucj.programacion.pec1_Jesus_lacruz;
 
 import java.util.Scanner;
-
+// https://github.com/Jace2842/pec_poo.git
+//link repositorio github
 public class GestionColegios {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
